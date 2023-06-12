@@ -1,0 +1,95 @@
+.buttons {
+    width: 64px;
+    height: 64px;
+    background-color: rgb(163, 153, 255);
+    border: none;
+}
+body{
+    background-color: rgb(163, 153, 255);
+}
+.metal{
+    width: 64px;
+    height: 64px;
+    background-color: rgb(185, 185, 185);
+}
+.metallurgy{
+    width: 64px;
+    height: 64px;
+    background-color: rgb(218, 163, 118);
+}
+.nonmetallic{
+    width: 64px;
+    height: 64px;
+    background-color: rgb(194, 253, 231);
+}
+.credit{
+    text-align: left;
+    position: absolute;
+    left: 1200px;
+}
+.box{
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 650px;
+    display: none;
+}
+.credit_detail {
+    text-align: center;
+    font-size: 20px;
+}
+.tittle {
+    text-align: center;
+    font-size: 50px;
+}
+.img {
+    width: 350px;
+    height: 350x;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+.detail {
+    font-size: 25px;
+    position: absolute;
+    left: 600px;
+    top : 300px;
+}
+.ESC {
+    width: 32px;
+    height: 32px;
+}
+.gueen{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 700px;
+    display: block;
+}
+.nicegueen{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 700px;
+    display: none;
+}
+.text{
+    position: absolute;
+    left: 450px;
+    top: 700px;
+}
+.banana{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 750px;
+    top: 700px;
+    background-color: rgb(163, 153, 255);
+    border: none;
+}
+.banana2{
+    width: 200px;
+    height: 200px;
+}
