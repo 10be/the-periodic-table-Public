@@ -8,7 +8,3 @@ function box1on(){
 function box1off(){
     document.getElementById("box").style.display = 'none';
 }
-function irons() {
-    iron += 1
-    document.getElementById("text").innerHTML = iron;
-}
